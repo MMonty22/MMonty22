@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&color=000000&fontColor=FFCD00&type=cylinder&height=200&text=Welcome!&fontSize=90&animation=fadeIn&stroke=ffffff&strokeWidth=4"/>
+  <img src="https://capsule-render.vercel.app/api?&color=000000&fontColor=FFCD00&type=rounded&height=200&text=Welcome!&fontSize=90&animation=fadeIn&stroke=ffffff&strokeWidth=4"/>
   <br />
   <a href="https://www.linkedin.com/in/montgomery-mike/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
