@@ -12,7 +12,7 @@
 ```yaml
 name: "Mike Montgomery"
 located-in: "Chicago, Illinois"
-current-job: "Aspriing Developer and Associate Producer"
+current-job: "Aspiring Developer and Associate Producer"
 education:
   [
     "Flatiron School Software Engineering Bootcamp",
