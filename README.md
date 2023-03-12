@@ -16,8 +16,8 @@ current-job: "Aspriing Developer and Associate Producer"
 education:
   [
     "Flatiron School Software Engineering Bootcamp",
-    "Bachelors of Sciences in Economics from The University of Iowa",
-    "Bachelor of Arts in Sports Business from The University of Iowa"
+    "Bachelors of Arts in Economics from The University of Iowa",
+    "Bachelor of Science in Recreation and Sports Business from The University of Iowa"
   ]
 technical-background:
   {
