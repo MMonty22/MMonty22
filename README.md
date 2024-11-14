@@ -12,7 +12,7 @@
 ```yaml
 name: "Mike Montgomery"
 located-in: "Chicago, Illinois"
-current-job: "Developer batters-box.com and Associate Producer"
+current-job: "Founder, Developer batters-box.com"
 education:
   [
     "Flatiron School Software Engineering Bootcamp",
