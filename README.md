@@ -22,7 +22,7 @@ education:
 technical-background:
   {
     "Front-End": ["JavaScript", "React", "HTML5", "CSS"],
-    "Back-End": ["Ruby", "Ruby_on_Rails"]
+    "Back-End": ["Ruby", "Ruby_on_Rails", "SQL"]
   }
 ```
 
